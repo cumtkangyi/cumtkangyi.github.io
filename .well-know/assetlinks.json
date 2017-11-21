@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.leo.kang.instantapp",
+    "sha256_cert_fingerprints":
+    ["98:14:06:0A:A0:7E:F6:04:59:32:8C:CC:3F:B0:AE:34:96:35:0E:18:E7:6C:64:BC:A1:9A:66:C7:D9:E6:CF:99"]
+  }
+}]
